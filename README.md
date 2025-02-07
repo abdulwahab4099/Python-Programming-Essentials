@@ -1,1 +1,1 @@
-# Python-Programming-Essentials
+# Python-Programming-Essentials-Rice-University
