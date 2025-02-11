@@ -32,8 +32,3 @@ powerball()
 powerball()
 powerball()
 
-###################################################################
-# Some sample output appears below.  Note that numbers need not match
-#Today's numbers are 46, 25, 49, 54, and  8. The Powerball number is 26.
-#Today's numbers are 14, 11, 17, 6, and  30. The Powerball number is 16.
-#Today's numbers are 58, 59, 39, 2, and  29. The Powerball number is 19.
